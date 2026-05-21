@@ -1,10 +1,27 @@
-﻿# Generating Keywords for Search Campaigns
+# SEO Keywords
 
-**Skill Level:** Basic
-**Duration:** 1 hr
+![Level: Basic](https://img.shields.io/badge/Level-Basic-green)
 
 ## Description
-Automatically generate keywords for a search engine marketing campaign using Python to send website visitors to the right landing page.
+Generate marketing keywords
 
-## Instructions
-Please add your project code and notebooks to this repository.
+## Topics Covered
+- Data Analysis
+- Problem Solving
+- Domain Specific Techniques
+
+## Prerequisites
+- Proficiency in Python/SQL (as applicable)
+- Understanding of project-specific concepts
+
+## Project Structure
+- data/: Contains project datasets
+- notebooks/: Jupyter notebooks for analysis (if applicable)
+- src/: Source code files
+- README.md: Project documentation
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies (if any)
+3. Navigate to the project folder
+4. Run the notebooks or scripts
